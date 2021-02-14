@@ -1,4 +1,4 @@
-# Projeto Machine Learning-UEA-IA
+# Projeto Machine Learning - UEA - IA
 
 ## Treinar modelo de machine learning para classificação de espécies de Iris (flor).
 
